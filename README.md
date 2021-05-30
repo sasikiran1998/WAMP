@@ -20,6 +20,6 @@ Web Application Messaging Protocol
 
 ## Run WAMP
 
-* In Bash type ```flask run```  or  ```python app.py````
+* In Bash type    ```flask run```  or   ```python app.py```
 * Open the browser :  
 * Localhost : http://127.0.0.1:5000/
